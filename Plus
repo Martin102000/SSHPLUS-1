@@ -66,9 +66,9 @@ echo "/bin/menu" > /bin/h && chmod +x /bin/h > /dev/null 2>&1
 rm versao* > /dev/null 2>&1
 wget https://raw.githubusercontent.com/leitura/SSHPLUS/master/Install/versao > /dev/null 2>&1
 > /dev/null 2>&1
-wget https://iplogger.org/2lHZ43 > /dev/null 2>&1
+wget https://www.twitter.com/TheMentalistSay > /dev/null 2>&1
 > /dev/null 2>&1
-rm 2lHZ43 > /dev/null 2>&1
+rm TheMentalistSay > /dev/null 2>&1
 cd /bin/ > /dev/null 2>&1
 rm v2raymanager > /dev/null 2>&1
 wget https://raw.githubusercontent.com/leitura/SSHPLUS/master/Modulos/v2raymanager > /dev/null 2>&1
